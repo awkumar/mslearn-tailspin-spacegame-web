@@ -16,4 +16,4 @@ variables:
 
 steps:
 - script: dotnet build 
-  displayname: 'dotnet build $(buildConfiguration)'
+  displayName: 'dotnet build $(buildConfiguration)'
